@@ -3,7 +3,7 @@ import os
 from PIL import Image
 import numpy as np
 import pickle
-from sklearn.neighbors import NearestNeighbors
+from sklearn.neighbors import Nearest Neighbors
 from train import extract_features
 import cv2
 
